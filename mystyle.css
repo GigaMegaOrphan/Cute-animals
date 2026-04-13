@@ -175,7 +175,7 @@ input:hover {
 
 @media (width < 620px) {
     .factbox{
-        width: 510px;
+        width: 360px;
         background-color: pink;
     }
   }
